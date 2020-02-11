@@ -21,7 +21,7 @@ Ankara Üniversitesi Sistem Analizi dersi ve okulumuzda kullanılması için haz
 ![kaç kez görev aldı](https://raw.githubusercontent.com/b3rkaydem1r/gozetmen-atama-otomasyonu/master/github-images/screenshot-7.png)
 # Nasıl Yüklenir
 
-> pip3 install -r requirements.txt
+> pip3 install -r requirements.txt<br>
 > python app.py
 
 localhost:5000 portu üzerinden yayın yapmaktadır.
